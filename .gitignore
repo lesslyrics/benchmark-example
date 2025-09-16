@@ -31,5 +31,8 @@ bin/
 ### Mac OS ###
 .DS_Store
 
- .idea/
+.idea/
+demo/.gradle
+demo/build
+demo.iml
 hack-2.iml
